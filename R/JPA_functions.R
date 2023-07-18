@@ -1,6 +1,6 @@
 ###############################################################
 #This is the main script to perform Integrated data Processing and automated metabolite Annotation (JPA)
-#Tao Huan, Sam Shen, Jian Guo 2020-07-28
+#Jian Guo, Tao Huan, Sam Shen 2020-07-28
 #Copyright @ University of British Columbia
 ###############################################################
 #Helper function: match ms2 to features
