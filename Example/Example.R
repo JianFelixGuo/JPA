@@ -1,5 +1,5 @@
 library(JPA)
-# Example workflow scripts
+### Example workflow scripts
 #########################################################################################
 # Workflow 1: JPA-PP(centWave) -> JPA-MR -> alignment -> plot -> annotation
 # Single file
